@@ -1,0 +1,1 @@
+tensor(2.3026, dtype=torch.float64)=tensor(2.3026, dtype=torch.float64)tensor(2.3028, dtype=torch.float64)=tensor(2.3028, dtype=torch.float64)tensor(4.2127, dtype=torch.float64)=tensor(4.2127, dtype=torch.float64)
